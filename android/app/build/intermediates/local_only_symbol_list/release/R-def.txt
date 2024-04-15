@@ -1,0 +1,22 @@
+R_DEF: Internal format may change without notice
+local
+drawable node_modules_reactnativealertnotification_src_assets_danger
+drawable node_modules_reactnativealertnotification_src_assets_info
+drawable node_modules_reactnativealertnotification_src_assets_success
+drawable node_modules_reactnativealertnotification_src_assets_warning
+drawable rn_edit_text_material
+drawable src_img_icono_ahorro
+drawable src_img_icono_alcohol
+drawable src_img_icono_casa
+drawable src_img_icono_comida
+drawable src_img_icono_gastos
+drawable src_img_icono_ocio
+drawable src_img_icono_salud
+drawable src_img_icono_suscripciones
+drawable src_img_nuevogasto
+integer react_native_dev_server_port
+integer react_native_inspector_proxy_port
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style AppTheme
